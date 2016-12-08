@@ -182,10 +182,12 @@ title(main ="Total Number of Steps Taken Each Day with Missing data Filled In",
 
 ### 4a. Do these values differ from the estimates from the first part of the assignment? 
 ** No, there is no difference.
+
 ### 4b. What is the impact of imputing missing data on the estimates of the total daily number of steps?
 ** No impact is seen.
 
 ## Are there differences in activity patterns between weekdays and weekends?
+
 ### 1. Create a new factor variable in the dataset with two levels -- "weekday" and "weekend" indicating whether a given date is a weekday or weekend day.
 
 ```{r week}
